@@ -2,6 +2,7 @@
 #include <windows.h>
 #include <d3d11.h>
 #include <d3dx11.h>
+//Возможная проблема с установкой https://stackoverflow.com/questions/15709469/d3dx11-lib-not-found
 #include "resource.h"
 
 //--------------------------------------------------------------------------------------
